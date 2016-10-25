@@ -1,6 +1,6 @@
 # package.json
 
-empty package.json for starting new projects
+boilerplate package.json for new projects made with `yarn init`
 
 ## License
 
