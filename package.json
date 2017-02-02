@@ -1,11 +1,6 @@
 {
-  "name": "package.json",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": {
-    "url": "git@github.com:cwonrails/package.json.git",
-    "type": "git"
-  },
-  "author": "Chris Watson <cwonrails@gmail.com>",
-  "license": "MIT"
+  "name": "new-project",
+  "version": "0.0.0",
+  "private": "true",
+  "author": "Chris Watson <cwonrails@gmail.com>"
 }
